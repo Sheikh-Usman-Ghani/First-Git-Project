@@ -1,2 +1,2 @@
-# product-management-system
+# Demo-Project
 This is my first Git Repository.
